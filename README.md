@@ -12,7 +12,7 @@ It includes dynamic reports for daily and monthly tracking, with cumulative tota
 - Exportable SQL scripts for schema and reports.
 
 ## Setup
-1. Import `apex_app/expense_tracker_app.sql` into Oracle APEX.
+1. Import `Application/expense_tracker_app.sql` into Oracle APEX.
 2. Run `sql/schema_setup.sql` in your Oracle XE/19c database.
 
 ## Requirements
